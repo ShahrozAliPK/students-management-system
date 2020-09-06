@@ -57,17 +57,17 @@
     </li>
 
    <li>
-      Sorting
+    <h3>Sorting</h3>
       <ul>
         <li>
-          Uniqueness
+            <h4>Uniqueness</h4>
           <p>Now here comes a big deal, what if there are 10 students whose <i>middle name</i> is <b>Hello</b>? You might think that we
             should jump to last or first name.Ok, but what if first, middle and last are same for each of the 10 students than how
             could you differeniate each of them? Well here comes <i>Automatic ID Generation</i></p>
         </li>
 
    <li>
-          Quering
+    <h4>Quering</h4>
           <p>Let's suppose you want to qurey <i>Hello World 50</i> of class 5 but what if there are more than 1 <i>Hello World 50</i>
             students in class 5, so how could you select your desired one <i>(obviously through physical detection and apperance)</i> but
             for computer all are same.So, that's why my program offers you <i>Automatic ID Generation</i> for each student which is the
