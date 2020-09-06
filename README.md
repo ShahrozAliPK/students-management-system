@@ -76,3 +76,7 @@
       </ul>
     </li>
     </ol>
+
+<h2>BETA version</h2>
+<p>This software is under developement (BETA) which means that developers/people are most welcome to post their thoughts or reviews.Till then everyone
+    one the internet is most welcome to use my software for free.Thankyou for your time!</p>
