@@ -1,7 +1,7 @@
-<h1>Students' Database Management</h1>
+<h1>Students Database Management</h1>
 <h2>Welcome</h2>
-<p>This is Students' Database Management system developed By Syed Shehroz Ali, if you want to know more about me you can <a href="#">click here</a>
-    to visit my Github profile.This is a terminal version of this program that comes along with User login system (<a href="#">link</a>) means that
+<p>This is Students' Database Management system developed By Syed Shehroz Ali, if you want to know more about me you can <a href="https://github.com/ShahrozAliPK">click here</a>
+    to visit my Github profile.This is a terminal version of this program that comes along with User login system (<a href="https://github.com/ShahrozAliPK/user-login">link</a>) means that
     this program runs on terminal i.e (no GUI) by executing the main code which is <i>execute.py</i> (can be found in the repo).You have to download
     the complete <i>master.zip</i> package from the master branch on your desktop/PC so that you can be able to use this free software on your
     computer too.I hope that you will find this software very <i>User-friendly</i>.Reviews and Comments are most welcome.Thank you!</p>
