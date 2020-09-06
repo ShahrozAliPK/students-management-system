@@ -14,18 +14,23 @@
     to query a particular entry from the database.</p>
 
 <h3>Security</h3>
+<ul>
+    <li>
 <h4>My Approach</h4>
 <p>It's my theory or principle that whenever I start working on a new software/algorithm or try to solve a real world problem through <i>Computer
     Science</i>, the number challenge which I face is <b>Information Security</b> that means protecting the User stored data inside Computer
     and turn it into an uncrackable piece that is almost anti-hacked from all the malicious and spy attacks (as much as I can).Similarly the reason
     for protecting this software with a <i>Login System</i>is same as making it (almost) anti-hacked.</p>
+    </li>
 
+   <li>
 <h4>User Login System</h4>
 <p>Just like to access your Instagram/Facebook feed you first need to bypass the login access to reach your profile homepage.But if you enter
     incorrect information then you failed to get login access to your feed.In the same way, this software is also packed with login System.It means
     that at first you need to bypass it (if the computer allows you) and then you can get access to the main software so that no one can mess up
       with your database entries.</p>
-
+    </li>
+</ul>
 <h3>Searching</h3>
 <ul>
   <li>
