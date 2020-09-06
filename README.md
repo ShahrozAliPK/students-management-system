@@ -34,13 +34,13 @@
     </li>
 </ul>
     </li>
-    
+
    <li>
 <h3>Searching</h3>
 <ul>
   <li>
 <h4>Efficiently</h4>
-<p>Seaching and sorting efficiently is also one of the most important task which I love to spend more and more time on it.Similarly Searching
+<p>Seaching efficiently is also one of the most important task which I love to spend more and more time on it.Similarly Searching
   linearly can be acceptable when it comes to only hundreds of entries.But when you work in a busy environment where you don't like to spend
     much time for each query case then it is obviously seems to be impossible to go one be one across each student's entry and find your
     desired one.But what if? you only need to type certain info for a student and result bumps up on your screen?</p>
@@ -54,5 +54,25 @@
     particular student.</p>
   </li>
 </ul>
-    <li>
+    </li>
+
+   <li>
+      Sorting
+      <ul>
+        <li>
+          Uniqueness
+          <p>Now here comes a big deal, what if there are 10 students whose <i>middle name</i> is <b>Hello</b>? You might think that we
+            should jump to last or first name.Ok, but what if first, middle and last are same for each of the 10 students than how
+            could you differeniate each of them? Well here comes <i>Automatic ID Generation</i></p>
+        </li>
+
+   <li>
+          Quering
+          <p>Let's suppose you want to qurey <i>Hello World 50</i> of class 5 but what if there are more than 1 <i>Hello World 50</i>
+            students in class 5, so how could you select your desired one <i>(obviously through physical detection and apperance)</i> but
+            for computer all are same.So, that's why my program offers you <i>Automatic ID Generation</i> for each student which is the
+            primary key to differeniate one <i>Hello World 50</i> student with other.</p>
+        </li>
+      </ul>
+    </li>
     </ol>
