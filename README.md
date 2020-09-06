@@ -13,6 +13,8 @@
     for a student (especially when it comes to thousands of entries and beyond).Likewise, Updating/Deleting/Searching has been made so much easy
     to query a particular entry from the database.</p>
 
+<ol>
+    <li>
 <h3>Security</h3>
 <ul>
     <li>
@@ -31,6 +33,9 @@
       with your database entries.</p>
     </li>
 </ul>
+    </li>
+    
+   <li>
 <h3>Searching</h3>
 <ul>
   <li>
@@ -49,3 +54,5 @@
     particular student.</p>
   </li>
 </ul>
+    <li>
+    </ol>
