@@ -25,3 +25,16 @@
     incorrect information then you failed to get login access to your feed.In the same way, this software is also packed with login System.It means
     that at first you need to bypass it (if the computer allows you) and then you can get access to the main software so that no one can mess up
       with your database entries.</p>
+
+<h3>Searching</h3>
+<h4>Efficiently</h4>
+<p>Seaching and sorting efficiently is also one of the most important task which I love to spend more and more time on it.Similarly Searching
+  linearly can be acceptable when it comes to only hundreds of entries.But when you work in a busy environment where you don't like to spend
+    much time for each query case then it is obviously seems to be impossible to go one be one across each student's entry and find your
+    desired one.But what if? you only need to type certain info for a student and result bumps up on your screen?</p>
+
+<h4>Effectively</h4>
+<p>Now, that's annoying to keep entering certain infos for a student and then get the result but chances are if you mistype something
+    then surely computer won't find that entry in the database.Therefore to come over this problem, my software is packed with a feature
+    called <i>Open Entries by</i> <b>Class, Age, Alphabet</b> or <i>Open All entries</i> so that chances are less that you won't find a
+    particular student.</p>
